@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "819111793113",
+    "project_id": "odc-chat",
+    "storage_bucket": "odc-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819111793113:android:f67ad3be601e12902fc9c8",
+        "android_client_info": {
+          "package_name": "com.example.chatodc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819111793113-e3r841qvg6epo8nq6a0iupsk0e60akqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeCLX3DAA5jsYgzVgFfSKAbedKleji3Xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819111793113-e3r841qvg6epo8nq6a0iupsk0e60akqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
