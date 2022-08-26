@@ -18,7 +18,7 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.17.6 <3.0.0"
+  sdk: ">=2.17.5 <3.0.0"
 
 # Dependencies specify other packages that your package needs in order to work.
 # To automatically upgrade your package dependencies to the latest versions
@@ -35,12 +35,17 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   firebase_core: ^1.21.0
+  audio_session: ^0.1.8
+  just_audio: ^0.9.27
+  rxdart: ^0.27.4
   cloud_firestore: ^3.4.5
   record: ^4.4.0
   flutter_sound:
   audioplayers: ^1.0.1
   path_provider: ^2.0.11
   permission_handler: ^10.0.0
+  record_mp3: ^3.0.0
+  firebase_storage: ^10.3.4
 
 
 dev_dependencies:
